@@ -42,7 +42,7 @@ This retail sales analysis project provides a strategic roadmap to enhance custo
 
 
 
-## Authors
+## Author
 
 - [@Saran Kumar](https://github.com/sarankumar1325)
 
